@@ -1,6 +1,6 @@
 package com.company.Algorithum.searching;
 
-public class BinarySearching {
+public class QuickSort {
     public static void main(String[] args) {
         int arr[] = {34,55,1,121,5,67,9};
         quicksort(arr,0,6);
