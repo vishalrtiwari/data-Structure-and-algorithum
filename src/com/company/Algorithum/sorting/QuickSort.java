@@ -1,4 +1,4 @@
-package com.company.Algorithum.searching;
+package com.company.Algorithum.sorting;
 
 public class QuickSort {
     public static void main(String[] args) {
