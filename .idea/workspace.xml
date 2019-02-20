@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="533adb08-254b-4dee-bb69-456c540a62bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Max_heapify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Max_heapify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/data_Structure/Max_heapify.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,10 +50,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Max_heapify.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/data_Structure/Max_heapify.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -86,6 +86,7 @@
         <option value="$PROJECT_DIR$/src/com/company/Algorithum/sorting/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/com/company/Algorithum/sorting/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/com/company/Max_heapify.java" />
+        <option value="$PROJECT_DIR$/src/com/company/data_Structure/Max_heapify.java" />
       </list>
     </option>
   </component>
@@ -151,6 +152,13 @@
               <item name="sorting" type="462c0819:PsiDirectoryNode" />
               <item name="MergeSort.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="data_Structure_and_algorithum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data_Structure_and_algorithum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="data_Structure" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,7 +167,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550676892408" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550677218927" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -183,7 +191,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" singleton="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Max_heapify" />
+      <option name="MAIN_CLASS_NAME" value="com.company.data_Structure.Max_heapify" />
       <module name="data_Structure_and_algorithum" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -207,17 +215,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" sideWeight="0.50121653" side_tool="true" visible="true" weight="0.24962178" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" sideWeight="0.50121653" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32843137" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32843137" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -355,10 +362,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Max_heapify.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/data_Structure/Max_heapify.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
