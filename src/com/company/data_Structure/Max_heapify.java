@@ -5,7 +5,7 @@ public class Max_heapify {
     public static void main(String[] args) {
 
     }
-    //function that call heapify that are used by all operation
+   
     public static void max_heapify(int arr[],int index ){
         int leftchild = 2*index;
         int rightchild = 2*index+1;
