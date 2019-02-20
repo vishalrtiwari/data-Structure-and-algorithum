@@ -8,7 +8,7 @@ public class HeapSort {
             System.out.println(arr[i]);
         }
     }
-    //function that call heapify that are used by all operation
+   
     public static void  max_heapify(int arr[],int length,int index ){
         int leftchild = 2*index+1;
         int rightchild = 2*index+2;
@@ -40,12 +40,12 @@ public class HeapSort {
         }
         for (int i=length-1; i>=0; i--)
         {
-            // Move current root to end
+           
             int temp = arr[0];
             arr[0] = arr[i];
             arr[i] = temp;
 
-            // call max heapify on the reduced heap
+            
             max_heapify(arr, i, 0);
         }
 
