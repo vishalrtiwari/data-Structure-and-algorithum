@@ -10,8 +10,8 @@ public class BuildMaxHeap {
     }
     //function that call heapify that are used by all operation
     public static void  max_heapify(int arr[],int index ){
-        int leftchild = 2*index+1;
-        int rightchild = 2*index+2;
+        int leftchild = 2*index;
+        int rightchild = 2*index+1;
         int larger = 0;
 
         if(leftchild < arr.length && arr[leftchild]>arr[index]){
