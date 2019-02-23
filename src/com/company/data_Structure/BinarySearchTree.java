@@ -3,7 +3,7 @@ package com.company.data_Structure;
 public class BinarySearchTree {
     class Node {
         int key;
-        Node left, right;
+        Node left , right;
 
         public Node(int item) {
             key = item;
