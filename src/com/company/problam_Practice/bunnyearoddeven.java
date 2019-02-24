@@ -1,6 +1,6 @@
 package com.company.problam_Practice;
 
- class Main{
+ class bunnyearoddeven{
 
         public static int Bunnyear(int n) {
             if (n < 1) {
